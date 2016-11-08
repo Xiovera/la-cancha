@@ -1,1 +1,58 @@
-/* Inserta tu CSS aqui */
+.abuelo{
+	background-color: #04B431;
+	width: 800px;
+	height: 400px;
+}
+.padre{
+	background-color: #04B431;
+	border:1px solid #fff;
+	width: 760px;
+	height: 360px;
+	position: absolute;
+	top: 25px;
+	left: 25px;
+}
+.hijo1{
+	background-color: #04B431;
+	border:1px solid #fff;
+	width:100px;
+	height:180px;
+	position: absolute;
+	top: 90px;
+	right: 0px;
+}
+.hijo2{
+	background-color: #04B431;
+	border:1px solid #fff;
+	width:100px;
+	height:180px;
+	position: absolute;
+	top:90px;
+	left:0px;
+}
+.hijo3{
+	background-color: #04B431;
+	border:1px solid #fff;
+	border-radius: 100px; 
+	width: 180px;
+	height: 180px;
+	position: absolute;
+	top: 90px;
+	left:280px;
+}
+.pel1{
+	position: absolute;
+	left:95px;
+	top: 95px;
+}
+.pel2{
+	position: absolute;
+	left:400px;
+	top: 50px;
+}
+.pel3{
+	position: absolute;
+	right: 105px;
+	bottom: 95px;
+
+}
